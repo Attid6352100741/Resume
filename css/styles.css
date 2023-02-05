@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: rgb(204, 160, 198);
+    color: rgb(0, 0, 0);
+}
+
+hr {
+    width: 80%;
+    border-top-width: 40px;
+    margin: auto;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.contact-block {
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(41, 41, 41);
+    color: rgb(236, 236, 236);
+}
+
+h1,h2,h3,h4,h5 {
+    color: white;
+}
+
+.me {
+    color:white;
+}
+
+
+.gable {
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(139, 139, 139);
+    height: 150px;
+}
+
+.sevenelevent {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    height: 150px;
+}
+
+.cat {
+    position: relative;
+    height: 40px;
+    width: 50px;
+}
+
+.gable_gruop {
+    text-align: center;
+}
+
+.sevenelevent_group {
+    text-align: center;
+}
+
+.seven {
+    margin-top: 20px;
+}
+
+.m-2 {
+    text-align: left;
+}
+
+.bangmod {
+    margin-top: 15px;
+    margin-bottom: 22px;
+    text-align: center;
+    height: 170px;
+}
+
+.pim {
+    margin-top: 15px;
+    height: 170px;
+    text-align: center;
+}
+
+.mb3 {
+    height: 150px;
+    width: 120px;
+}
+
+.star {
+    width: 150px;
+}
+
+.java {
+    height: 150px;
+}
+
+.facebook {
+    width: 150px;
+    height: 150px;
+}
+.attid {
+    margin-top: 15px;
+}
+
+.map {
+    margin-top: 15px;
+    height: 100%;
+    width: 95%;
+    text-align: center;
+}
+
+.home {
+    margin-top: 15px;
+}
